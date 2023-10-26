@@ -8,17 +8,11 @@ Before using this project, please ensure you have both pnpm and Node.js installe
 
 1. Clone the repository:
 
-git clone https://github.com/username/project.git
-
-arduino
-
+```git clone https://github.com/username/project.git```
 
 2. Install project dependencies using pnpm:
 
-pnpm install
-
-shell
-
+```pnpm install```
 
 ## Usage
 
