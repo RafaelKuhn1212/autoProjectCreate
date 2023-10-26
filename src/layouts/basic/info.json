@@ -1,0 +1,7 @@
+{
+    "description":"Minimal TypeScript Node.js starter",
+    "scripts":[
+        {"name":"start","command":"ts-node src/index.ts"}
+    ],
+    "dependencies":["express","@types/express","ts-node","typescript","@types/node"]
+}
